@@ -1,0 +1,20 @@
+git init
+git remote add origin 
+git add .
+git commit -m "b2"
+git checkout -b bai2
+git add .
+git commit -m "he"
+git push origin bai 2
+
+git init 
+git remote
+git checkout -b 'bai1'
+git add .
+git commit -m "b1"
+git push origin bai1
+
+git checkout -b test2
+git add .
+git commit -m "test2"
+git push origin test2
